@@ -1,0 +1,31 @@
+body{
+    background-color:#ffffff
+  }
+  
+  
+  h1  {
+    color:pink;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:15px  50px ;
+    font-size: 40px;
+    line-height: 150px;
+  }
+  h1 span{
+      background: #ffffff;
+      padding:0px 20px;
+  }
+  h2{
+    color:deeppink
+  }
+  h99{
+    color: lightpink;
+    font-size: 10px;
+  }
+  h100{
+    color:deeppink;
+    font-size: 12px;
+  }
+  p {
+    color:hotpink;
+  }
+  
